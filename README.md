@@ -1,2 +1,2 @@
-# Learning-Blockchain
-My Blockchain learning journey
+##Blockchain
+Started Learning Blockchain using algorand Blockchain.
